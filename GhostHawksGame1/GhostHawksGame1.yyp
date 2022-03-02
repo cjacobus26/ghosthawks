@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":4,},
     {"id":{"name":"Test2","path":"objects/Test2/Test2.yy",},"order":1,},
     {"id":{"name":"Test4","path":"objects/Test4/Test4.yy",},"order":2,},
     {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":0,},
