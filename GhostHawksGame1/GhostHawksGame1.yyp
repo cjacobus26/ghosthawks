@@ -1,16 +1,7 @@
 {
   "resources": [
-<<<<<<< HEAD
-    {"id":{"name":"FinalObject","path":"objects/FinalObject/FinalObject.yy",},"order":6,},
     {"id":{"name":"Test2","path":"objects/Test2/Test2.yy",},"order":1,},
-    {"id":{"name":"Test6","path":"objects/Test6/Test6.yy",},"order":4,},
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},"order":5,},
-    {"id":{"name":"Test4","path":"objects/Test4/Test4.yy",},"order":2,},
     {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":0,},
-    {"id":{"name":"Test5","path":"objects/Test5/Test5.yy",},"order":3,},
-=======
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
->>>>>>> 6435a946d440ea720bc5803c92a032953c42ceb0
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
