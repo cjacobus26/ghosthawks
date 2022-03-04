@@ -1,11 +1,19 @@
 {
   "resources": [
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},"order":5,},
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},"order":4,},
-    {"id":{"name":"Test2","path":"objects/Test2/Test2.yy",},"order":1,},
-    {"id":{"name":"Test4","path":"objects/Test4/Test4.yy",},"order":2,},
-    {"id":{"name":"Test","path":"objects/Test/Test.yy",},"order":0,},
-    {"id":{"name":"Test5","path":"objects/Test5/Test5.yy",},"order":3,},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
+    {"id":{"name":"obj_monster","path":"objects/obj_monster/obj_monster.yy",},"order":12,},
+    {"id":{"name":"obj_level_exit","path":"objects/obj_level_exit/obj_level_exit.yy",},"order":10,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":6,},
+    {"id":{"name":"spr_monster","path":"sprites/spr_monster/spr_monster.yy",},"order":1,},
+    {"id":{"name":"spr_marker","path":"sprites/spr_marker/spr_marker.yy",},"order":3,},
+    {"id":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},"order":8,},
+    {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":11,},
+    {"id":{"name":"spr_flyer","path":"sprites/spr_flyer/spr_flyer.yy",},"order":0,},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},"order":9,},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":7,},
+    {"id":{"name":"spr_mushroom","path":"sprites/spr_mushroom/spr_mushroom.yy",},"order":4,},
+    {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -39,6 +47,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Monsters.yy","order":2,"resourceVersion":"1.0","name":"Monsters","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
