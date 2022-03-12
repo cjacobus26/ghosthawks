@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 if (keyboard_check(vk_left) and !instance_place(x-move_speed,y,obj_block)) {
 		x += -move_speed
@@ -25,7 +25,7 @@ if (keyboard_check(vk_left) and !instance_place(x-move_speed,y,obj_block)) {
 	if(instance_place(x,y+1,obj_block)){
 			gravity = 0
 		}else{
-			gravity = 1	
+			gravity = 0.75	
 		}
 	
 		if(vspeed > 12){
