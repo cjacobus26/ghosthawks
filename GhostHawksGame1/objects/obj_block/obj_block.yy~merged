@@ -1,0 +1,44 @@
+{
+  "spriteId": {
+    "name": "spr_block",
+    "path": "sprites/spr_block/spr_block.yy",
+  },
+  "solid": true,
+  "visible": false,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": null,
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+<<<<<<< HEAD
+  "physicsGroup": 0,
+=======
+  "physicsGroup": 1,
+>>>>>>> upstream/main
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+<<<<<<< HEAD
+  "eventList": [],
+=======
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+>>>>>>> upstream/main
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_block",
+  "tags": [],
+  "resourceType": "GMObject",
+}
