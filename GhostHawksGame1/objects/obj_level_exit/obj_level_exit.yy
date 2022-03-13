@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "spr_level",
+    "path": "sprites/spr_level/spr_level.yy",
   },
-  "solid": true,
-  "visible": false,
+  "solid": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -20,9 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -30,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_block",
+  "name": "obj_level_exit",
   "tags": [],
   "resourceType": "GMObject",
 }
