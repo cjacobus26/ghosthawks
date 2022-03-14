@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_centipede",
+    "path": "sprites/spr_centipede/spr_centipede.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "obj_flyer",
