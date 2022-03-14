@@ -4,7 +4,6 @@
     {"id":{"name":"spr_landscape","path":"sprites/spr_landscape/spr_landscape.yy",},"order":1,},
     {"id":{"name":"spr_centipede","path":"sprites/spr_centipede/spr_centipede.yy",},"order":0,},
     {"id":{"name":"obj_death","path":"objects/obj_death/obj_death.yy",},"order":2,},
-    {"id":{"name":"spr_block_1","path":"sprites/spr_block_1/spr_block_1.yy",},"order":13,},
     {"id":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"order":4,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":3,},
     {"id":{"name":"spr_attackPlayer","path":"sprites/spr_attackPlayer/spr_attackPlayer.yy",},"order":7,},
