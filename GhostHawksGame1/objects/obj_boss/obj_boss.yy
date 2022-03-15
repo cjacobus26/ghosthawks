@@ -5,7 +5,10 @@
   },
   "solid": false,
   "visible": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_boss",
+    "path": "sprites/spr_boss/spr_boss.yy",
+  },
   "persistent": false,
   "parentObjectId": {
     "name": "obj_centipede",

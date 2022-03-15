@@ -6,7 +6,11 @@ if (!attacking && object_exists(obj_player)){
 		if ((x - obj_player.x) < 0){
 			image_xscale = -1	
 		}
+		else {
+			image_xscale = 1	
+		}
 		attacking = true
+		hspeed = 0
 		instance_create_layer(x,y, "Instances", obj_turtBul1)
 		instance_create_layer(x,y, "Instances", obj_turtBul2)
 	}

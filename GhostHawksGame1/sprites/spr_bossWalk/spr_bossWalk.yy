@@ -75,7 +75,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 37,
-    "yorigin": 47,
+    "yorigin": 37,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bossWalk","path":"sprites/spr_bossWalk/spr_bossWalk.yy",},

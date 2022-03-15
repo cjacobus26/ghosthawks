@@ -7,4 +7,5 @@ if (attacking){
 	canAttack = false
 	alarm[0] = 60
 	image_xscale = 1
+	hspeed = hsp
 }

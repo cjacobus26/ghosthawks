@@ -23,6 +23,7 @@
     {"id":{"name":"obj_bossDead","path":"objects/obj_bossDead/obj_bossDead.yy",},"order":1,},
     {"id":{"name":"spr_industrialZone","path":"sprites/spr_industrialZone/spr_industrialZone.yy",},"order":2,},
     {"id":{"name":"spr_nextLevel","path":"sprites/spr_nextLevel/spr_nextLevel.yy",},"order":14,},
+    {"id":{"name":"obj_temp","path":"objects/obj_temp/obj_temp.yy",},"order":16,},
     {"id":{"name":"spr_attackPlayer","path":"sprites/spr_attackPlayer/spr_attackPlayer.yy",},"order":0,},
     {"id":{"name":"obj_centiDead","path":"objects/obj_centiDead/obj_centiDead.yy",},"order":1,},
     {"id":{"name":"spr_life","path":"sprites/spr_life/spr_life.yy",},"order":9,},

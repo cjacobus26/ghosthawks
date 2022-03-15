@@ -5,4 +5,5 @@ if (attacking){
 	attacking = false
 	sprite_index = walk_sprite
 	image_xscale = 1
+	hspeed = hsp
 }
