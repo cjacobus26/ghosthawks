@@ -6,4 +6,3 @@ attacking = false
 
 sprite_index = spr_bossWalk
 
-bossHealth = 15
