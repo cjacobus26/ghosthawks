@@ -9,7 +9,7 @@ for(var i = 0; i < lives; i++){
 }
 
 draw_set_halign(fa_left)
-//draw_text(55, 55, "Score: " + string(score))
+draw_text(55, 55, "Score: " + string(score))
 
 if (global.game_over) {
 	draw_set_halign(fa_center)
