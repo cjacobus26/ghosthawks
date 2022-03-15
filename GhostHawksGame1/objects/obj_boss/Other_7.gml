@@ -4,4 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-image_xscale = 1.5
+if (sprite_index == spr_bossHurt){
+	sprite_index = spr_bossWalk	
+}
