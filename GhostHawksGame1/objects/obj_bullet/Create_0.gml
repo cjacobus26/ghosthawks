@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(score >= 0){
-	room_goto(Room2)
+speed = 10;
+
+if(obj_player.bullet_direction == 0){
+	direction = 180
 }else{
-	
+	direction = 0
 }
