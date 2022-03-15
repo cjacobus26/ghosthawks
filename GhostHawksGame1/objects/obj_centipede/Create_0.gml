@@ -5,6 +5,4 @@ hspeed = hsp
 
 attacking = false
 
-sprite_index = spr_centipede_walk
-
-mobHealth = 3
+sprite_index = walk_sprite

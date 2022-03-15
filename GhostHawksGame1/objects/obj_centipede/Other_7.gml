@@ -3,5 +3,7 @@
 
 if (attacking){
 	attacking = false
-	sprite_index = spr_centipede_idle
+	sprite_index = walk_sprite
+	image_xscale = 1
+	hspeed = hsp
 }
