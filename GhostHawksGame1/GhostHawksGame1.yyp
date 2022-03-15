@@ -34,6 +34,7 @@
     {"id":{"name":"spr_turt_idle","path":"sprites/spr_turt_idle/spr_turt_idle.yy",},"order":2,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":2,},
     {"id":{"name":"spr_turt_bul2","path":"sprites/spr_turt_bul2/spr_turt_bul2.yy",},"order":5,},
+    {"id":{"name":"snd_mobDied","path":"sounds/snd_mobDied/snd_mobDied.yy",},"order":1,},
     {"id":{"name":"spr_bossDeath","path":"sprites/spr_bossDeath/spr_bossDeath.yy",},"order":2,},
     {"id":{"name":"spr_death","path":"sprites/spr_death/spr_death.yy",},"order":8,},
     {"id":{"name":"spr_idlePlayer","path":"sprites/spr_idlePlayer/spr_idlePlayer.yy",},"order":2,},
