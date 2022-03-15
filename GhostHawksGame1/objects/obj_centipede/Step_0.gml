@@ -3,7 +3,7 @@
 if (!attacking){
 	if (object_exists(obj_player)){
 		if (distance_to_object(obj_player) < attack_range){
-			sprite_index = spr_centipede_atk
+			sprite_index = attack_sprite
 			attacking = true
 		}
 	}

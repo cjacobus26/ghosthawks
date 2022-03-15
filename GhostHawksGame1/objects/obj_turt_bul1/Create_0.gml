@@ -1,8 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+image_xscale = obj_turtle.image_xscale
 
-hspeed = hsp
-
-attacking = false
-
-sprite_index = walk_sprite
+hspeed = -(image_alpha*4)
