@@ -75,7 +75,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 35,
-    "yorigin": 48,
+    "yorigin": 51,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_runningPlayer","path":"sprites/spr_runningPlayer/spr_runningPlayer.yy",},

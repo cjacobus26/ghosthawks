@@ -39,10 +39,11 @@
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"hsp","path":"objects/obj_flyer/obj_flyer.yy",},"objectId":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},"value":"-2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"dead_body","path":"objects/obj_flyer/obj_flyer.yy",},"objectId":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},"value":"obj_centiDead","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Centipede",
+    "path": "folders/Objects/Centipede.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_centipede",

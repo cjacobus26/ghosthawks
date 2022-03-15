@@ -5,6 +5,9 @@ if (!attacking){
 		if (distance_to_object(obj_player) < attack_range){
 			sprite_index = attack_sprite
 			attacking = true
+			if ((x - obj_player.x) < 0){
+				image_xscale = -1	
+			}
 		}
 	}
 	

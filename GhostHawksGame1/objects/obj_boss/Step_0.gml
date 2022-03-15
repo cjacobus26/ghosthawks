@@ -1,10 +1,16 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+     /// @description Insert description here
+// You can write your code in this editor
 if (!attacking){
 	if (object_exists(obj_player)){
 		if (distance_to_object(obj_player) < attack_range){
-			sprite_index = spr_bossAttack
+			sprite_index = attack_sprite
 			attacking = true
+			if ((x - obj_player.x) < 0){
+				image_xscale = -1.5	
+			}
 		}
 	}
 	

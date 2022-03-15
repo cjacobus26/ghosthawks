@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_turt_bul1",
-    "path": "objects/obj_turt_bul1/obj_turt_bul1.yy",
+    "name": "obj_turtBul1",
+    "path": "objects/obj_turtBul1/obj_turtBul1.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Turtle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_turt_bul2",
+  "name": "obj_turtBul2",
   "tags": [],
   "resourceType": "GMObject",
 }

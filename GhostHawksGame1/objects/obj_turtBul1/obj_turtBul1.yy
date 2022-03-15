@@ -32,7 +32,7 @@
     "path": "folders/Objects/Turtle.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_turt_bul1",
+  "name": "obj_turtBul1",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (attacking){
-	attacking = false
-	sprite_index = spr_bossIdle
-}
+
+// Inherit the parent event
+event_inherited();
+
+image_xscale = 1.5
