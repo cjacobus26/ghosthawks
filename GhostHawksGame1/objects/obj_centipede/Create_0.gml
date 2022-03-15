@@ -6,3 +6,5 @@ hspeed = hsp
 attacking = false
 
 sprite_index = spr_centipede_walk
+
+mobHealth = 3

@@ -3,6 +3,7 @@
 keyAttack = keyboard_check_pressed(ord("Z"))
 
 if (keyboard_check(vk_left) and !instance_place(x-move_speed,y,obj_block)) {
+	bullet_direction = 0
 		x += -move_speed
 		image_xscale = -1
 		sprite_index = spr_runningPlayer
@@ -12,6 +13,7 @@ if (keyboard_check(vk_left) and !instance_place(x-move_speed,y,obj_block)) {
 }
 
 if (keyboard_check(vk_right) and !instance_place(x+move_speed,y,obj_block)) {
+	bullet_direction = 1
 	x += move_speed
 	image_xscale = 1
 	sprite_index = spr_runningPlayer
@@ -34,4 +36,9 @@ if(vspeed > 12){
 	vspeed = 12	
 }
 			
-if(keyAttack){	sprite_index = spr_attackPlayer	}
+if(keyAttack){	
+	sprite_index = spr_attackPlayer
+	instance_create_layer(x,y,"Instances",obj_bullet)
+	
+	
+	}
