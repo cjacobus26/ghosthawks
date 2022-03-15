@@ -26,6 +26,8 @@ if (!attacking){
 	if(keyboard_check_pressed(ord("Z"))){
 		sprite_index = spr_attackPlayer	
 		attacking = true
+		instance_create_layer(x,y, "Instances", obj_playerAttack)
+		obj_player.visible = 0
 	}
 }
 

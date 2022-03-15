@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_centiDead",
+    "path": "objects/obj_centiDead/obj_centiDead.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

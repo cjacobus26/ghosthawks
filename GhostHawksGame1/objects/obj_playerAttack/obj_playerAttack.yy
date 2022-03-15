@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_centipede_idle",
-    "path": "sprites/spr_centipede_idle/spr_centipede_idle.yy",
+    "name": "spr_attackPlayer",
+    "path": "sprites/spr_attackPlayer/spr_attackPlayer.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_temp",
+  "name": "obj_playerAttack",
   "tags": [],
   "resourceType": "GMObject",
 }
