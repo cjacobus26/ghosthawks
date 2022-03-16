@@ -10,6 +10,8 @@ if (!attacking && object_exists(obj_player)){
 			image_xscale = 1	
 		}
 		attacking = true
+		canAttack = false
+		alarm[0] = 100000
 		hspeed = 0
 		instance_create_layer(x,y, "Instances", obj_turtBul1)
 		instance_create_layer(x,y, "Instances", obj_turtBul2)

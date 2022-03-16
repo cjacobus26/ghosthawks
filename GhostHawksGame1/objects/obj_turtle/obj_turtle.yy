@@ -31,7 +31,6 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
@@ -41,7 +40,7 @@
     {"propertyId":{"name":"attack_range","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"500","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"dead_body","path":"objects/obj_flyer/obj_flyer.yy",},"objectId":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},"value":"obj_turtDead","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"hsp","path":"objects/obj_flyer/obj_flyer.yy",},"objectId":{"name":"obj_flyer","path":"objects/obj_flyer/obj_flyer.yy",},"value":"-1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"points","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"15","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"400","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Turtle",
