@@ -5,4 +5,4 @@ instance_create_layer(x, y, "Instances", dead_body)
 
 audio_play_sound(death_sound, 1, 0) 
 
-score += 10
+score += 250

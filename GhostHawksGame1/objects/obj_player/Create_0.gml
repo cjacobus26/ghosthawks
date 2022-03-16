@@ -7,3 +7,5 @@ attacking = false
 if(lives == 2||lives == 1){
 	score = 0
 }
+
+canShoot = true;
