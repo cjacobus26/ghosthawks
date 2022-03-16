@@ -31,7 +31,6 @@
     {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_playerAttack","path":"objects/obj_playerAttack/obj_playerAttack.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":0,"value":"5","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"bossHealth","tags":[],"resourceType":"GMObjectProperty",},
@@ -41,7 +40,7 @@
     {"propertyId":{"name":"attack_sprite","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"spr_bossAttack","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"idle_sprite","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"spr_bossIdle","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"walk_sprite","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"spr_bossWalk","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"points","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/obj_centipede/obj_centipede.yy",},"objectId":{"name":"obj_centipede","path":"objects/obj_centipede/obj_centipede.yy",},"value":"1000","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Boss",
